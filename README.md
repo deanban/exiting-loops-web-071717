@@ -113,7 +113,7 @@ find([1, 1, 3, 1, 5, 6, 8, 10], (n) => n % 2 === 0) // 6
 find(["dog", "cat", "horse", "mouse", "ant", "cow", "antelope"], (s) => s.length > 3) // "horse"
 ```
 
-## To Be `continue`d
+## To Be continued
 
 What if we want to perform a certain operation on all of the elements of an array, but we want to skip elements that don't need to change or that would otherwise mess up our applications if they underwent the given operation?
 
